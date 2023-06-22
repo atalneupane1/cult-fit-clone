@@ -4,20 +4,18 @@
 
 **CureFit** is a health and fitness company offering digital and offline experiences across fitness, nutrition, and mental well-being. With the aim to make fitness fun and easy, **CureFit** gives workouts a whole new meaning with a range of trainer-led, group workout classes.
 
-In this project we have tried to make a look alike clone of cure.fit. With our efforts and the technology stack, that we have learned so far in the masai school, we were able to clone the front end with high precision and quality.
+In this project, we have tried to make a look-alike clone of cure.fit. With our efforts and the technology stack, that we have learned so far in the masai school, we were able to clone the front end with high precision and quality.
 
 # Technology Stack Used 💻
 
-In this project we have used the following tech stack.
+In this project, we have used the following tech stack.
 
 - HTML5 <i class="devicon-html5-plain colored"></i>
 - CSS <i class="devicon-css3-plain colored"></i>
 - SCSS <i class="devicon-sass-original colored"></i>
 - LESS <i class="devicon-less-plain-wordmark colored"></i>
 
-Along with that we also made few pages dynamic using JavaScript ES6. In order to store user data we also used LocalStorage (aka browser storage).
-
-<br>
+Along with that we also made a few pages dynamic using JavaScript ES6. In order to store user data we also used LocalStorage (aka browser storage).
 
 ## How to browse through the project? 🤔
 
